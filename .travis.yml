@@ -1,0 +1,7 @@
+arch:
+  - amd64
+  - ppc64le
+language: go
+os: linux
+go:
+  - 1.x
